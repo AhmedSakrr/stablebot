@@ -2,8 +2,8 @@
 // Copyright hazae41 https://www.patreon.com/hazae41
 
 // ----- OPTIONS -----
-const first = "TUSD";
-const second = "USDT";
+const first = "USDC";
+const second = "BUSD";
 // -------------------
 
 // Market symbol
